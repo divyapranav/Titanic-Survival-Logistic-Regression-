@@ -85,4 +85,11 @@ titanic_flask_app/
 
 The Logistic Regression model gives reasonable accuracy on test data and is suitable for binary classification in this classic dataset. Evaluation metrics like accuracy and classification report are printed during training.
 
+## Working Screenshots
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 ---
